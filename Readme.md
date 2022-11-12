@@ -1,0 +1,11 @@
+e1071
+caTools
+lsa
+igraph
+tm
+officer
+dplyr
+ggplot2
+wordcloud
+wordcloud2
+stringr
